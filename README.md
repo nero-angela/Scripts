@@ -1,5 +1,5 @@
 # Scripts
-This project is a collection of linux scripts
+This project is a collection of linux scripts. This scripts have only been verified in Ubuntu 18.04 environment.
 
 ## Script List
 - install python3 & pip3 & python3-venv
