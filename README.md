@@ -12,3 +12,8 @@ This scripts have only been verified in Ubuntu 18.04.
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/python/flask/init.sh)"
 ```
+
+- install monboDB
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/mongodb/install.sh)"
+```
