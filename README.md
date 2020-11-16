@@ -17,3 +17,8 @@ This scripts have only been verified in Ubuntu 18.04.
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/mongodb/install.sh)"
 ```
+
+- install chrome & chrome driver (86.0.4240.22)
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/installChromeDriver.sh)"
+```
