@@ -10,7 +10,7 @@ This scripts have only been verified in Ubuntu 18.04.
 
 - install flask & create app.py (flask init file)
 ```
-/bin/bash -c "$(curl -fsSL https://github.com/nero-angela/Scripts/blob/master/ubuntu/python/initFlask.sh)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/python/initFlask.sh)"
 ```
 
 - install monboDB
