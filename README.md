@@ -23,7 +23,12 @@ This scripts have only been verified in Ubuntu 18.04.
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/installChromeDriver.sh)"
 ```
 
-- install docker & docker compose
+- install docker
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/installDocker.sh)"
+```
+
+- install docker compose
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/installDockerCompose.sh)"
 ```
