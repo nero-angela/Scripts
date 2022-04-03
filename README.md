@@ -32,3 +32,8 @@ This scripts have only been verified in Ubuntu 18.04.
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/installDockerCompose.sh)"
 ```
+
+- install docker and docker compose
+```
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/nero-angela/Scripts/master/ubuntu/installDockerAndCompose.sh)"
+```
